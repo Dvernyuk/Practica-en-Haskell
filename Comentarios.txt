@@ -1,0 +1,3 @@
+mal instance Eq, faltan casos
+mal soporte
+falta conjCociente, E/S
